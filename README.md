@@ -11,4 +11,4 @@ where as the remaining file "multiple_linear_regression.py" was supplied by the 
 it has been tweaked with "Auto-matic Backward elimination process"
 
 ------------------------------------------------------------data_set-------------------------------------------------------------------
-the file "Salary_Data.csv" t=is the file for supplied data set from the above provided web source.
+the file "50_startups.csv" named the file for supplied data set from the above provided web source.
